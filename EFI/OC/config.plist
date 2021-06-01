@@ -1148,9 +1148,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C024334054NG2Y7A8</string>
+			<string>C02447310CDG2Y7CB</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1541</integer>
 			<key>ROM</key>
 			<data>DFvVQkwM</data>
 			<key>SpoofVendor</key>
@@ -1160,9 +1160,9 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02PTXYVFY10</string>
+			<string>C02NQTYFFY10</string>
 			<key>SystemUUID</key>
-			<string>E4FC7076-D55B-4BB9-B33C-E3D1D81BFE03</string>
+			<string>B658E887-AF6D-4861-98E6-B0B35E0024FA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
